@@ -1,4 +1,19 @@
 # FILE-HANDLING-UTILITY
+
+*COMPANY*: CODTECH IT SOLUTION
+
+*NAME*: PREETHI ROJA G
+
+*INTERN ID*: CT04DH1206
+
+*DOMAIN*: JAVA PROGRAMMING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH
+
+# TASK DESCRIPTION
+
 This Java program demonstrates a practical and fundamental application of file handling — a core concept in any programming language, particularly useful in scenarios involving persistent data storage. The goal of this task is to develop a simple yet effective program that allows users to interact with files by writing, reading, and modifying their contents. The Java class named task1 provides a console-based interface that guides the user through each step in a structured and user-friendly manner.
 Overview
 The program is structured into three main functionalities:
