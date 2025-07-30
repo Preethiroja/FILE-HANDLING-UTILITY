@@ -6,3 +6,7 @@ Writing to a file
 Reading from the file
 Appending new data to the file
 All file operations are handled through built-in classes available in the java.io package, such as FileWriter, BufferedWriter, FileReader, and BufferedReader. The program takes input from the user using the Scanner class (from the java.util package) and performs operations on a file named codtech_file.txt
+
+# OUTPUT
+
+<img width="561" height="292" alt="Image" src="https://github.com/user-attachments/assets/f12e7a9e-0fe6-4fe9-8797-a83e35f3e6a8" />
